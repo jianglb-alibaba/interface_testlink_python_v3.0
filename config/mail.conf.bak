@@ -1,0 +1,7 @@
+[SMTP]
+login_user = laiyuhenshuai@163.com
+login_pwd = huozhe
+from_addr =  laiyuhenshuai@163.com
+to_addrs = ['1033553122@qq.com','553187951@qq.com','369177010@qq.com','415018201@qq.com','2815901200@qq.com','849337935@qq.com', '798423069@qq.com']
+host = smtp.163.com
+port = 25
